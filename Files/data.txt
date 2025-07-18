@@ -1,0 +1,9 @@
+Name: Himanshu Gahalyan  
+Email: himanshu@example.com  
+Phone: +91-9876543210  
+Address: Delhi, India  
+
+Skills: Python, ML, Data Visualization, HTML, CSS, JavaScript, React, Node.js, Git, SQL  
+
+Education:  B.Tech CSE (AI/ML), Geeta University (2024 - Present)  
+
